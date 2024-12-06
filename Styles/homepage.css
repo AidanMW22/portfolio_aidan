@@ -1,0 +1,50 @@
+
+
+/* Main box styling ) */
+main {
+    margin-top: 1em;
+    display: grid;
+    grid-template-columns:  auto 1fr;
+    gap: 1em;
+}
+
+h1 {
+    border-bottom: 1px white solid;
+    padding-bottom: 0.2em;
+}
+
+/* sidebar styling */
+.sidebar {
+    border: white 1px solid;
+    padding: 1em 17em 0em 0em;
+    
+}
+
+a {
+    margin: 1em 1em 1em 1em;
+    border-bottom: 1px white solid;
+}
+
+/* Hoofd boxes met alle informatie */
+.werk {
+    border: white 1px solid;
+    padding: 1em;
+}
+
+h2 {
+    border-bottom: 1px solid white;
+    padding-bottom: 0.2em;
+
+}
+.boxes_all {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1em;
+    margin: 1em 0em 0em 0em;
+}
+
+.boxes {
+    border: white 1px solid;
+}
+
+

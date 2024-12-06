@@ -1,0 +1,35 @@
+
+
+
+:root {
+    color: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Alle ruimte tussen de main page */
+body {
+    background-color: rgb(23, 23, 23);
+    margin: 1em 1em 1em 2em;
+}
+
+
+/* Link styling */
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(210, 41, 41);
+}
